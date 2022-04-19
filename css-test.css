@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(12, 231, 85);
+}
+h1{
+    font-size: 40px;
+    color:#eb35d4;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.small{
+    font-size: 60px;
+}
+
+.small.uppercase{
+    color: green;
+}
+
+h2 span{
+    color: gold;
+}
